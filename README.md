@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hello there, 👋
 
-<!--
-**kylelaverty/kylelaverty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Kyle Laverty and I'm a Software Developer and a Software Technical Lead from Canada.
 
-Here are some ideas to get you started:
+### 👪 I'm a Husband, Father and Developer:
+- 🔭 I’m currently working on work 😄
+- 🌱 I’m currently learning some basic Unity
+- 💬 Ask me about AWS, C#, WPF, Terraform
+- 😄 Pronouns: he/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Where i am currently working:
+- [Miovision Technologies Inc.](https://miovision.com/)
+
+### 📫 Where to find me:
+<p align ='center'>
+    <a href="https://twitter.com/k_laverty"><img height="30" src="https://github.com/kylelaverty/kylelaverty/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/kylelaverty/"><img height="30" src="https://github.com/kylelaverty/kylelaverty/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
+
+- [LinkedIn](https://linkedin.com/in/kylelaverty) 🏢
+- [Twitter](https://twitter.com/k_laverty) 🐤
+
+### Languages and Tools:
+
+<br/>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kylelaverty&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
