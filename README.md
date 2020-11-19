@@ -19,15 +19,16 @@ My name is Kyle Laverty and I'm a Software Developer and a Software Technical Le
 
 
 ### Languages and Tools:
-<code><img height="40" src="https://github.com/kylelaverty/kylelaverty/blob/main/icon/csharp.svg?raw=true"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://github.com/kylelaverty/kylelaverty/blob/main/icon/netcore.png?raw=true"></code>
-<code><img height="40" src="https://github.com/kylelaverty/kylelaverty/blob/main/icon/vscode_1.35.png?raw=true"></code>
-<code><img height="40" src="https://github.com/kylelaverty/kylelaverty/blob/main/icon/mssql.png?raw=true"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+<code><img height="60" src="https://github.com/kylelaverty/kylelaverty/blob/main/icon/csharp.svg?raw=true"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="60" src="https://github.com/kylelaverty/kylelaverty/blob/main/icon/netcore.png?raw=true"></code>
+<code><img height="60" src="https://github.com/kylelaverty/kylelaverty/blob/main/icon/vscode_1.35.png?raw=true"></code>
+<code><img height="60" src="https://github.com/kylelaverty/kylelaverty/blob/main/icon/rider.png?raw=true"></code>
+<code><img height="60" src="https://github.com/kylelaverty/kylelaverty/blob/main/icon/mssql.png?raw=true"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 
 ### Stats
 
