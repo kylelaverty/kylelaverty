@@ -19,16 +19,17 @@ My name is Kyle Laverty and I'm a Software Developer and a Software Technical Le
 
 
 ### Languages and Tools:
-<code><img height="60" src="https://github.com/kylelaverty/kylelaverty/blob/main/icon/csharp.svg?raw=true"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="60" src="https://github.com/kylelaverty/kylelaverty/blob/main/icon/netcore.png?raw=true"></code>
-<code><img height="60" src="https://github.com/kylelaverty/kylelaverty/blob/main/icon/vscode_1.35.png?raw=true"></code>
-<code><img height="60" src="https://github.com/kylelaverty/kylelaverty/blob/main/icon/rider.png?raw=true"></code>
-<code><img height="60" src="https://github.com/kylelaverty/kylelaverty/blob/main/icon/mssql.png?raw=true"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" title="JavaScript"><img height="60" src="icon/csharp.svg"></a>
+<a href="https://www.terraform.io/" title="Terraform"><img height="60" src="icon/terraform.png"></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img height="60" src="icon/javascript.png"></a>
+<a href="https://dotnet.microsoft.com/" title=".NET Core"><img height="60" src="icon/netcore.png"></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img height="60" src="icon/vscode_1.35.png"></a>
+<a href="https://www.jetbrains.com/rider/" title="Jet Brains Rider"><img height="60" src="icon/rider.png"></a>
+<a href="https://www.microsoft.com/en-ca/sql-server" title="MS Sql Server"><img height="60" src="icon/mssql.png"></a>
+<a href="https://github.com/" title="GitHub"><img height="60" src="icon/github.png"></a>
+<a href="https://aws.amazon.com/" title="AWS"><img height="60" src="icon/aws.png"></a>
+<a href="https://azure.microsoft.com/en-ca/" title="Azure"><img height="60" src="icon/azure.png"></a>
+<a href="https://www.docker.com/" title="Docker"><img height="60" src="icon/docker.png"></a>
 
 ### Stats
 
