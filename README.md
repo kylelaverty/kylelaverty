@@ -1,8 +1,8 @@
 ### Hello there, 👋
 
-My name is Kyle Laverty and I'm a Software Developer and a Software Technical Lead from Canada.
+My name is Kyle Laverty and I'm a Software Development Manager from Canada.
 
-### 👪 I'm a Husband, Father and Developer:
+### 👪 I'm a Husband, Father, Developer and Manager:
 - 🔭 I’m currently working on work 😄
 - 🌱 I’m currently learning some basic Unity
 - 💬 Ask me about AWS, C#, WPF, Terraform
