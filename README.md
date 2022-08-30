@@ -4,12 +4,12 @@ My name is Kyle Laverty and I'm a Software Development Manager from Canada.
 
 ### 👪 I'm a Husband, Father, Developer and Manager:
 - 🔭 I’m currently working on work 😄
-- 🌱 I’m currently learning some basic Unity
+- 🌱 I’m currently learning some basic Unity and Godot
 - 💬 Ask me about AWS, C#, WPF, Terraform
 - 😄 Pronouns: he/him
 
 ### 💼 Where i am currently working:
-- [Miovision Technologies Inc.](https://miovision.com/)
+- [OCAS](https://www.ocas.ca/)
 
 ### 📫 Where to find me:
 <p>
