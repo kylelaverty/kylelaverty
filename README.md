@@ -2,23 +2,23 @@
 
 My name is Kyle Laverty and I'm a Software Development Manager from Canada.
 
-### 👪 I'm a Husband, Father, Developer and Manager:
+## 👪 I'm a Husband, Father, Developer and Manager:
 - 🔭 I’m currently working on work 😄
 - 🌱 I’m currently learning some basic Unity and Godot
 - 💬 Ask me about AWS, C#, WPF, Terraform
 - 😄 Pronouns: he/him
 
-### 💼 Where i am currently working:
+## 💼 When I'm working:
 - [OCAS](https://www.ocas.ca/)
 
-### 📫 Where to find me:
+## 📫 Where to find me:
 <p>
     <a href="https://twitter.com/k_laverty"><img height="30" src="https://github.com/kylelaverty/kylelaverty/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/kylelaverty/"><img height="30" src="https://github.com/kylelaverty/kylelaverty/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
 
-### Languages and Tools:
+## Languages and Tools:
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" title="JavaScript"><img height="60" src="icon/csharp.svg"></a>
 <a href="https://www.terraform.io/" title="Terraform"><img height="60" src="icon/terraform.png"></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img height="60" src="icon/javascript.png"></a>
@@ -31,7 +31,7 @@ My name is Kyle Laverty and I'm a Software Development Manager from Canada.
 <a href="https://azure.microsoft.com/en-ca/" title="Azure"><img height="60" src="icon/azure.png"></a>
 <a href="https://www.docker.com/" title="Docker"><img height="60" src="icon/docker.png"></a>
 
-### Stats
+## Stats
 
 [![Kyle Laverty's github stats](https://github-readme-stats.vercel.app/api?username=kylelaverty&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -39,3 +39,11 @@ My name is Kyle Laverty and I'm a Software Development Manager from Canada.
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylelaverty&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🎮 When I'm Chillin:
+
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) &nbsp;
+![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) &nbsp;
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
