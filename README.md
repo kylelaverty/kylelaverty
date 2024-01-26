@@ -1,44 +1,29 @@
-### Hello there, 👋
+# Hey there, 👋
 
-My name is Kyle Laverty and I'm a Software Development Manager from Canada.
+My name is Kyle Laverty (he/him) and I'm a Software Development Manager from Canada.
 
 ## 👪 I'm a Husband, Father, Developer and Manager:
 - 🔭 I’m currently working on work 😄
-- 🌱 I’m currently learning some basic Unity and Godot
+- 🌱 I’m currently learning some Go.
 - 💬 Ask me about AWS, C#, WPF, Terraform
-- 😄 Pronouns: he/him
 
 ## 💼 When I'm working:
 - [OCAS](https://www.ocas.ca/)
 
 ## 📫 Where to find me:
-<p>
-    <a href="https://twitter.com/k_laverty"><img height="30" src="https://github.com/kylelaverty/kylelaverty/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/kylelaverty/"><img height="30" src="https://github.com/kylelaverty/kylelaverty/blob/main/icon/linkedin.png?raw=true"></a>
-</p>
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kylelaverty) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kylelaverty/) &nbsp;
 
 
 ## Languages and Tools:
-<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" title="JavaScript"><img height="60" src="icon/csharp.svg"></a>
-<a href="https://www.terraform.io/" title="Terraform"><img height="60" src="icon/terraform.png"></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img height="60" src="icon/javascript.png"></a>
-<a href="https://dotnet.microsoft.com/" title=".NET Core"><img height="60" src="icon/netcore.png"></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img height="60" src="icon/vscode_1.35.png"></a>
-<a href="https://www.jetbrains.com/rider/" title="Jet Brains Rider"><img height="60" src="icon/rider.png"></a>
-<a href="https://www.microsoft.com/en-ca/sql-server" title="MS Sql Server"><img height="60" src="icon/mssql.png"></a>
-<a href="https://github.com/" title="GitHub"><img height="60" src="icon/github.png"></a>
-<a href="https://aws.amazon.com/" title="AWS"><img height="60" src="icon/aws.png"></a>
-<a href="https://azure.microsoft.com/en-ca/" title="Azure"><img height="60" src="icon/azure.png"></a>
-<a href="https://www.docker.com/" title="Docker"><img height="60" src="icon/docker.png"></a>
+[![CSharp, Terraform, JavaScript, AWS, Azure, Visual Studio Code, Docker, Kubernetes, GitHub](https://skillicons.dev/icons?i=cs,terraform,js,aws,azure,vscode,docker,kubernetes,github)](https://skillicons.dev)
 
 ## Stats
 
-[![Kyle Laverty's github stats](https://github-readme-stats.vercel.app/api?username=kylelaverty&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylelaverty&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kylelaverty&show_icons=true&count_private=true&theme=light" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylelaverty&count_private=true&layout=compact&theme=light" />&nbsp;&nbsp;
+</p>
 
 ## 🎮 When I'm Chillin:
 
