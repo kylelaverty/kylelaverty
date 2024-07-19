@@ -1,13 +1,13 @@
 # Hey there, 👋
 
-My name is Kyle Laverty (he/him) and I'm a Software Development Manager from Canada.
+My name is Kyle Laverty (he/him) and I'm a Manager, Software Development from Canada.
 
 ## 👪 I'm a Husband, Father, Developer and People Leader:
 - 🔭 I’m currently working on work 😄
-- 🌱 I’m currently learning some Go.
-- 💬 Ask me about AWS, C#, WPF, Terraform
+- 🌱 I’m currently learning some Docker Compose via a Media Center Project
+- 💬 Ask me about AWS, C#, Terraform, Docker
 
-## 💼 When I'm working:
+## 💼 Where I'm working:
 - [OCAS](https://www.ocas.ca/)
 
 ## 📫 Where to find me:
@@ -16,7 +16,7 @@ My name is Kyle Laverty (he/him) and I'm a Software Development Manager from Can
 
 
 ## Languages and Tools:
-[![CSharp, Terraform, JavaScript, AWS, Azure, Visual Studio Code, Docker, Kubernetes, GitHub](https://skillicons.dev/icons?i=cs,terraform,js,aws,azure,vscode,docker,kubernetes,github)](https://skillicons.dev)
+[![CSharp, Terraform, JavaScript, AWS, Azure, Visual Studio Code, Docker, Kubernetes, GitHub](https://skillicons.dev/icons?i=cs,terraform,js,aws,azure,vscode,docker,kubernetes,github,godot)](https://skillicons.dev)
 
 ## Stats
 
