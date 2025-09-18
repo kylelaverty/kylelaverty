@@ -4,7 +4,7 @@ My name is Kyle Laverty (he/him) and I'm a Manager, Software Development from Ca
 
 ## 👪 I'm a Husband, Father, Developer and People Leader:
 - 🔭 I’m currently working on work 😄
-- 🌱 I’m currently learning some Docker Compose via a Media Center Project
+- 🌱 I’m currently refreshing my EF Core knowledge
 - 💬 Ask me about AWS, C#, Terraform, Docker
 
 ## 💼 Where I'm working:
@@ -28,7 +28,8 @@ My name is Kyle Laverty (he/him) and I'm a Manager, Software Development from Ca
 ## 🎮 When I'm Chillin:
 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
+![GOG](https://img.shields.io/badge/GOG.com-86328A?style=for-the-badge&logo=gogdotcom&logoColor=fff) &nbsp;
+![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) &nbsp;
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) &nbsp;
-![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) &nbsp;
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
