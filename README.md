@@ -16,7 +16,7 @@ My name is Kyle Laverty (he/him) and I'm a Manager, Software Development from Ca
 
 
 ## Languages and Tools:
-[![CSharp, Terraform, JavaScript, AWS, Azure, Visual Studio Code, Docker, Kubernetes, GitHub](https://skillicons.dev/icons?i=cs,terraform,js,aws,azure,vscode,docker,kubernetes,github,godot)](https://skillicons.dev)
+[![CSharp, Postgres, Rider, Terraform, JavaScript, AWS, Azure, Visual Studio Code, Docker, Kubernetes, GitHub, Godot, GitHub Actions](https://skillicons.dev/icons?i=cs,postgres,rider,terraform,js,aws,azure,vscode,docker,kubernetes,github,godot,githubactions)](https://skillicons.dev)
 
 ## Stats
 
