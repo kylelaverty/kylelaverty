@@ -3,11 +3,11 @@
 My name is Kyle Laverty (he/him) and I'm a Manager, Software Development from Canada.
 
 ## 👪 I'm a Husband, Father, Developer and People Leader:
-- 🔭 I’m currently working on work 😄
+- 🔭 I’m currently looking for work
 - 🌱 I’m currently refreshing my EF Core knowledge
 - 💬 Ask me about AWS, C#, Terraform, Docker
 
-## 💼 Where I'm working:
+## 💼 Where I was working:
 - [OCAS](https://www.ocas.ca/)
 
 ## 📫 Where to find me:
