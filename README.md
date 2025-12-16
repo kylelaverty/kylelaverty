@@ -3,12 +3,12 @@
 My name is Kyle Laverty (he/him) and I'm a Manager, Software Development from Canada.
 
 ## 👪 I'm a Husband, Father, Developer and People Leader:
-- 🔭 I’m currently looking for work
+- 🔭 I’m currently learning React Native
 - 🌱 I’m currently refreshing my EF Core knowledge
 - 💬 Ask me about AWS, C#, Terraform, Docker
 
 ## 💼 Where I was working:
-- [OCAS](https://www.ocas.ca/)
+- [Lightspeed](https://www.lightspeedhq.com/)
 
 ## 📫 Where to find me:
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kylelaverty) &nbsp;
